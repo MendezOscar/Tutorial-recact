@@ -1,0 +1,22 @@
+{
+    "Task" : [
+        {
+            "title" : "task 1",
+            "responsible" : "Oscar",
+            "description" : "Install react",
+            "priority" : "high"
+        },
+        {
+            "title" : "task 2",
+            "responsible" : "Mark",
+            "description" : "Run react",
+            "priority" : "high"
+        },
+        {
+            "title" : "task 3",
+            "responsible" : "Mike",
+            "description" : "Add navbar",
+            "priority" : "low"
+        }
+    ]
+}
